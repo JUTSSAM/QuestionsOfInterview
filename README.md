@@ -9,7 +9,7 @@ __后端开发面试题目集锦__
 * TCP流量控制、拥塞控制、差错控制
 * Socket编程过程
 * 网络I/O模型，select与epoll
-* 网络ISO模型
+* 网络ISO模型TCP与UDP的区别
 * http/https协议
 
 ### 操作系统
@@ -63,4 +63,4 @@ __后端开发面试题目集锦__
 * 事务的机制
 * 数据库优化
 
-__BY:__JUTSSAM__ Wechat:__mamashuobjgegehennb
+__BY:__JUTSSAM __Wechat:__mamashuobjgegehennb
