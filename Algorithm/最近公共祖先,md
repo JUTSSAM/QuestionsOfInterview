@@ -1,0 +1,16 @@
+```c++
+//1.已知一棵二叉树按顺序存储结构进行存储，设计一个算法，
+//求编号分别为i和j的两个结点的最近的公共祖先的值
+ElEmType Comm_Ancestor(SqTree T, int i, int j){
+  if(T[i]!='#'&&T[j]!='#'){
+    while(i!=j){
+      if(i>j)
+        i=i/2;
+      else
+        j=j/2;
+    }
+    return T[i];
+  }
+}
+
+```
